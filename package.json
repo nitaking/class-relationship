@@ -1,0 +1,7 @@
+{
+  "name": "class-relationship",
+  "version": "1.0.0",
+  "description": "クラス間の関係性をデコレータを使ってよしなにやってくれるライブラリ",
+  "main": "index.js",
+  "license": "MIT"
+}
